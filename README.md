@@ -1,5 +1,13 @@
 # Olist E-Commerce Analytics Project
 
+## Dataset
+
+This project uses the Olist Brazilian E-Commerce Dataset.
+
+Dataset Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+The dataset contains customer, order, payment, review, seller, and product information from the Olist marketplace.
+
 ## Project Overview
 
 This project presents an end-to-end analysis of the Olist Brazilian E-Commerce dataset using SQL and Power BI. The objective was to analyze customer behavior, product performance, seller performance, and overall marketplace trends to generate actionable business insights.
